@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">kotlin_work</string>
+    <string name="save">save</string>
+    <string name="fragment">fragment</string>
 </resources>
